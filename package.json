@@ -1,0 +1,26 @@
+{
+  "name": "react-native-global-back-button",
+  "version": "1.0.0",
+  "description": "This wrapper lets you add and remove eventlistener for back button while the considering eventlistener as a global object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manoj-makkuboy/react-native-global-back-button.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "back",
+    "button",
+    "eventlistener"
+  ],
+  "author": "Manoj Mohan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manoj-makkuboy/react-native-global-back-button/issues"
+  },
+  "homepage": "https://github.com/manoj-makkuboy/react-native-global-back-button#readme"
+}
